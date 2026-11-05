@@ -59,7 +59,7 @@ const yash = {
 
 <p align="center">
   <a href="mailto:yashbhardwaj290906@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=A66BE0" /></a>
-  <a href="(https://www.linkedin.com/in/yash-bhardwaj-5b9040320/)"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=A66BE0" /></a>
+  <a href="https://www.linkedin.com/in/yash-bhardwaj-5b9040320/"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=A66BE0" /></a>
 </p>
 
 <p align="center"><sub>If you're reading this, you're either hiring or curious. Both are good choices.</sub></p>
