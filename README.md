@@ -50,11 +50,6 @@ const yash = {
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=b-yash2909&theme=dark&hide_border=true&background=00000000&ring=A66BE0&fire=A66BE0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A66BE0&sideLabels=9a9a9a&dates=6e7681" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-yash2909&layout=compact&theme=transparent&hide_border=true&title_color=A66BE0&text_color=9a9a9a" />
-</p>
-
 ---
 
 <p align="center">
